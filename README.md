@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeremieCrinon!
-- 👀 I’m interested in web development, motorcycle, and apnea! 
+- 👀 I’m interested in web development, tech, motorcycle, danse, and apnea! 
 - 🌱 I’m currently learning web development!
 - 📫 e-mail : contact@jcrinon.com
 
