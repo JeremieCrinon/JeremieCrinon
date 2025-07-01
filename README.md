@@ -1,4 +1,8 @@
-# Who cares about who I am ?
+- 👋 Hi, I’m Jérémie Crinon !
+
+- 👀 I’m interested in web and mobile apps development, tech, motorcycle, dance, and apnea! 
+
+- 📫 e-mail : contact@jcrinon.com
 
 <!---
 JeremieCrinon/JeremieCrinon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
